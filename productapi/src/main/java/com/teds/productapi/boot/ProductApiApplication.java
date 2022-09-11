@@ -1,4 +1,4 @@
-package com.teds.productapi;
+package com.teds.productapi.boot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
