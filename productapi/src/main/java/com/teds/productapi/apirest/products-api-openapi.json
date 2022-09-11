@@ -35,7 +35,7 @@
                   "minItems": 0,
                   "uniqueItems": true,
                   "items": {
-                    "$ref": "#/components/schemas/Product"
+                    "$ref": "#/components/schemas/ProductDTO"
                   }
                 }
               }
@@ -47,7 +47,7 @@
   },
   "components": {
     "schemas": {
-      "Product": {
+      "ProductDTO": {
         "type": "object",
         "properties": {
           "id": {
